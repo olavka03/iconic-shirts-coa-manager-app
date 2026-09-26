@@ -1,0 +1,21 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+client_id = "1f24f050f284d99e647baadb1479fe4e"
+application_url = "https://paleozoological-apperceptively-camden.ngrok-free.dev"
+embedded = true
+name = "COA Manager (dev)"
+
+[access_scopes]
+# Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
+scopes = "write_metaobject_definitions,write_metaobjects,write_products"
+
+[auth]
+redirect_urls = ["https://paleozoological-apperceptively-camden.ngrok-free.dev/auth/callback", "https://paleozoological-apperceptively-camden.ngrok-free.dev/auth/shopify/callback", "https://paleozoological-apperceptively-camden.ngrok-free.dev/api/auth/callback"]
+
+
+[webhooks]
+api_version = "2026-10"
+
+[build]
+include_config_on_deploy = true
+automatically_update_urls_on_dev = true
