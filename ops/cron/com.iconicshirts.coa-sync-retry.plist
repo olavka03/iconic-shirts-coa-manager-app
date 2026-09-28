@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.iconicshirts.coa-sync-retry</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/bin/zsh</string>
+    <string>-lic</string>
+    <string>cd '/Users/macbook/work/split/iconic-shirts-coa-manager' &amp;&amp; npm run sync:retry</string>
+  </array>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Hour</key>
+    <integer>3</integer>
+    <key>Minute</key>
+    <integer>0</integer>
+  </dict>
+  <key>StandardOutPath</key>
+  <string>/Users/macbook/Library/Logs/coa-sync-retry.log</string>
+  <key>StandardErrorPath</key>
+  <string>/Users/macbook/Library/Logs/coa-sync-retry.log</string>
+</dict>
+</plist>

@@ -1,34 +1,118 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
 generator client {
   provider = "prisma-client-js"
 }
 
-// Note that some adapters may set a maximum length for the String type by default, please ensure your strings are long
-// enough when changing adapters.
-// See https://www.prisma.io/docs/orm/reference/prisma-schema-reference#string for more information
 datasource db {
-  provider = "sqlite"
-  url      = "file:dev.sqlite"
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
 }
 
+// Field names are fixed by @shopify/shopify-app-session-storage-prisma (it uses the `prisma.session` delegate).
 model Session {
-  id            String    @id
+  id                  String    @id
+  shop                String
+  state               String
+  isOnline            Boolean   @default(false) @map("is_online")
+  scope               String?
+  expires             DateTime?
+  accessToken         String    @map("access_token")
+  userId              BigInt?   @map("user_id")
+  firstName           String?   @map("first_name")
+  lastName            String?   @map("last_name")
+  email               String?
+  accountOwner        Boolean   @default(false) @map("account_owner")
+  locale              String?
+  collaborator        Boolean?  @default(false)
+  emailVerified       Boolean?  @default(false) @map("email_verified")
+  refreshToken        String?   @map("refresh_token")
+  refreshTokenExpires DateTime? @map("refresh_token_expires")
+
+  @@map("sessions")
+}
+
+enum DatePrecision {
+  DAY
+  MONTH
+
+  @@map("date_precision")
+}
+
+enum SyncAction {
+  UPSERT
+  DELETE
+
+  @@map("sync_action")
+}
+
+model Certificate {
+  id              String    @id @default(uuid(7)) @db.Uuid
+  shop            String
+  code            String
+  item            String    @default("")
+  notes           String    @default("")
+  orderId         String?   @map("order_id")
+  /// Order.name as Shopify shows it; backfilled from the code for imported certificates.
+  orderName       String?   @map("order_name")
+  lineItemId      String?   @map("line_item_id")
+  lineItemTitle   String?   @map("line_item_title")
+  photoUrl        String?   @map("photo_url")
+  /// A file id without a URL means Shopify is still processing the file.
+  photoFileId     String?   @map("photo_file_id")
+  videoUrl        String?   @map("video_url")
+  videoFileId     String?   @map("video_file_id")
+  videoPreviewUrl String?   @map("video_preview_url")
+  photoError      String?   @map("photo_error")
+  videoError      String?   @map("video_error")
+  productId       String?   @map("product_id")
+  productTitle    String?   @map("product_title")
+  productImageUrl String?   @map("product_image_url")
+  searchText      String    @default("") @map("search_text")
+  latestSignedOn  DateTime? @map("latest_signed_on") @db.Date
+  /// Bumped on every content change; used only to converge the backup mirror.
+  version         Int       @default(1)
+  createdAt       DateTime  @default(now()) @map("created_at") @db.Timestamptz(3)
+  /// Last merchant edit, set explicitly so bookkeeping writes don't move it.
+  updatedAt       DateTime  @default(now()) @map("updated_at") @db.Timestamptz(3)
+  signers         Signer[]
+
+  @@unique([shop, code])
+  @@index([shop, createdAt(sort: Desc), id(sort: Desc)])
+  @@index([shop, updatedAt(sort: Desc)])
+  @@index([shop, latestSignedOn])
+  @@index([shop, orderId])
+  @@index([shop, orderName])
+  @@index([shop, lineItemId])
+  @@map("certificates")
+}
+
+model Signer {
+  id            String         @id @default(uuid(7)) @db.Uuid
+  certificateId String         @map("certificate_id") @db.Uuid
+  certificate   Certificate    @relation(fields: [certificateId], references: [id], onDelete: Cascade)
+  position      Int
+  name          String
+  /// MONTH precision is stored as the first day of the month.
+  signedOn      DateTime?      @map("signed_on") @db.Date
+  datePrecision DatePrecision? @map("date_precision")
+  location      String?
+
+  @@index([certificateId, position])
+  @@map("signers")
+}
+
+/// Exactly one row per certificate. No foreign key: a DELETE row must outlive its certificate.
+model SyncFailure {
+  certificateId String     @id @map("certificate_id") @db.Uuid
   shop          String
-  state         String
-  isOnline      Boolean   @default(false)
-  scope         String?
-  expires       DateTime?
-  accessToken   String
-  userId        BigInt?
-  firstName     String?
-  lastName      String?
-  email         String?
-  accountOwner  Boolean   @default(false)
-  locale        String?
-  collaborator  Boolean?  @default(false)
-  emailVerified Boolean?  @default(false)
-  refreshToken        String?
-  refreshTokenExpires DateTime?
+  action        SyncAction
+  version       Int
+  handle        String
+  staleHandles  String[]   @default([]) @map("stale_handles")
+  attempts      Int        @default(0)
+  lastError     String?    @map("last_error")
+  createdAt     DateTime   @default(now()) @map("created_at") @db.Timestamptz(3)
+  updatedAt     DateTime   @default(now()) @map("updated_at") @db.Timestamptz(3)
+
+  @@index([shop, updatedAt])
+  @@map("sync_failures")
 }

@@ -19,6 +19,7 @@ const host = new URL(process.env.SHOPIFY_APP_URL || "http://localhost")
   .hostname;
 
 let hmrConfig;
+
 if (host === "localhost") {
   hmrConfig = {
     protocol: "ws",
@@ -44,14 +45,10 @@ export default defineConfig({
     port: Number(process.env.PORT || 3000),
     hmr: hmrConfig,
     fs: {
-      // See https://vitejs.dev/config/server-options.html#server-fs-allow for more information
       allow: ["app", "node_modules"],
     },
   },
-  plugins: [
-    reactRouter(),
-    tsconfigPaths(),
-  ],
+  plugins: [reactRouter(), tsconfigPaths()],
   build: {
     assetsInlineLimit: 0,
   },

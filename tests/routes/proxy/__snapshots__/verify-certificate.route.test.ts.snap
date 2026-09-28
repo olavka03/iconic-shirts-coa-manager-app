@@ -1,0 +1,40 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`GET /proxy/verify > returns a known certificate in the legacy shape, never cached or indexed 1`] = `
+"{
+  "found": true,
+  "certificate": {
+    "certificate_verification": "IS141595MBRGFR",
+    "signed": "Marco van Basten, Ruud Gullit and Frank Rijkaard",
+    "shirt": "Netherlands Home Shirt - 1988 Retro",
+    "location": "Utrecht, Netherlands (Marco van Basten); London, United Kingdom (Ruud Gullit)",
+    "date": "21 November 2023 (Marco van Basten); October 2023 (Ruud Gullit)",
+    "photo": "https://cdn.shopify.com/s/files/1/0000/0001/files/netherlands-1988.png?v=1",
+    "video": "",
+    "notes": "Signed at two events.\\nThe photo is from the first.",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": "21 November 2023",
+        "date_iso": "2023-11-21",
+        "date_precision": "day",
+        "location": "Utrecht, Netherlands"
+      },
+      {
+        "name": "Ruud Gullit",
+        "date": "October 2023",
+        "date_iso": "2023-10",
+        "date_precision": "month",
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Frank Rijkaard",
+        "date": "",
+        "date_iso": "",
+        "date_precision": "",
+        "location": ""
+      }
+    ]
+  }
+}"
+`;

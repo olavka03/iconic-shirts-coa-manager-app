@@ -1,0 +1,6340 @@
+[
+  {
+    "code": "IS141909ARS0",
+    "item": "Arsenal 2003-2004 Home Shirt",
+    "pattern": "b1",
+    "signers": [
+      {
+        "name": "Thierry Henry",
+        "date": {
+          "precision": "DAY",
+          "iso": "2019-11-28"
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Patrick Vieira",
+        "date": {
+          "precision": "DAY",
+          "iso": "2019-10-24"
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Dennis Bergkamp",
+        "date": {
+          "precision": "DAY",
+          "iso": "2019-09-06"
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Robert Pires",
+        "date": {
+          "precision": "DAY",
+          "iso": "2020-07-29"
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Sol Campbell",
+        "date": {
+          "precision": "DAY",
+          "iso": "2020-07-23"
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Ray Parlour",
+        "date": {
+          "precision": "DAY",
+          "iso": "2020-07-23"
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Jens Lehmann",
+        "date": {
+          "precision": "DAY",
+          "iso": "2020-08-27"
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Pat Rice",
+        "date": {
+          "precision": "DAY",
+          "iso": "2020-08-30"
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Freddie Ljungberg",
+        "date": {
+          "precision": "DAY",
+          "iso": "2021-06-10"
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Kolo Toure",
+        "date": {
+          "precision": "DAY",
+          "iso": "2022-03-04"
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Gilberto Silva",
+        "date": {
+          "precision": "DAY",
+          "iso": "2022-09-12"
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Lauren",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-01-27"
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Martin Keown",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-10-20"
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Jeremie Aliadiere",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-12-06"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141909LIV2005",
+    "item": "Liverpool 2005 Champions League Istanbul Winners Shirt",
+    "pattern": "c",
+    "signers": [
+      {
+        "name": "Djimi Traoré",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-08-07"
+        },
+        "location": "Beausoleil"
+      },
+      {
+        "name": "Jerzy Dudek",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-08-11"
+        },
+        "location": "Kraków"
+      },
+      {
+        "name": "Milan Baroš",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-08-09"
+        },
+        "location": "Prague"
+      },
+      {
+        "name": "Xabi Alonso",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-08-14"
+        },
+        "location": "Leverkusen"
+      },
+      {
+        "name": "Luis García",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-09-12"
+        },
+        "location": "Manchester"
+      },
+      {
+        "name": "Sami Hyypiä",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-10"
+        },
+        "location": "Porvoo"
+      },
+      {
+        "name": "Jamie Carragher",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-09-25"
+        },
+        "location": "Liverpool"
+      },
+      {
+        "name": "Dietmar Hamann",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-08-03"
+        },
+        "location": "Gjøvik"
+      },
+      {
+        "name": "Steven Gerrard",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-10-10"
+        },
+        "location": "Riyadh"
+      },
+      {
+        "name": "Djibril Cissé",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-08-07"
+        },
+        "location": "Nice"
+      },
+      {
+        "name": "Steve Finnan",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-08-20"
+        },
+        "location": "Wimbledon"
+      },
+      {
+        "name": "John Arne Riise",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-08-02"
+        },
+        "location": "Oslo"
+      },
+      {
+        "name": "Harry Kewell",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-09-12"
+        },
+        "location": "Manchester"
+      },
+      {
+        "name": "Vladimír Šmicer",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-08-09"
+        },
+        "location": "Prague"
+      },
+      {
+        "name": "Rafa Benítez",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-07"
+        },
+        "location": "Liverpool"
+      }
+    ]
+  },
+  {
+    "code": "IS141910AGRM2627",
+    "item": "Real Madrid 2026/27 Home Football Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Arda Güler",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-08-15"
+        },
+        "location": "Ciudad Real Madrid, Valdebas, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141911KB0406",
+    "item": "Brazil 2004-2006 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Kaka",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-05-15"
+        },
+        "location": "Sao Paolo, Brazil"
+      }
+    ]
+  },
+  {
+    "code": "IS141906PDCWH",
+    "item": "West Ham United Home Shirt – 2000",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo di Canio",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-03-09"
+        },
+        "location": "Staines, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141907KACM",
+    "item": "AC Milan 2025-26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Kaká",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-05-15"
+        },
+        "location": "Sao Paolo, Brazil"
+      }
+    ]
+  },
+  {
+    "code": "IS141905XHB2324",
+    "item": "FC Barcelona Home Shirt - 2023-24",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Xavi Hernández",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-16"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141899MPSG2526",
+    "item": "Paris Saint-Germain 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marquinhos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-05-07"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141904AGRM2627",
+    "item": "Real Madrid 2026/27 Home Football Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Arda Güler",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-08-15"
+        },
+        "location": "Ciudad Real Madrid, Valdebas, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141904RCM2526",
+    "item": "Manchester City Home Shirt 2025-2026",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ryan Cherki",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-05-08"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141902GB2526",
+    "item": "FC Barcelona 2025–26 Third Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Gavi",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-05-31"
+        },
+        "location": "Las Rozas, Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141900TSTH94",
+    "item": "Tottenham Hotspur Football Shirt - 1994 Retro Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Teddy Sheringham",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-02-27"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141898MBAM88",
+    "item": "AC Milan Home Shirt - 1988 Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141897JMRM",
+    "item": "Real Madrid shirt - The Special One",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "José Mourinho",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-07-15"
+        },
+        "location": "Ciudad Real Madrid in Valdebebas, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141892THDBA",
+    "item": "Arsenal Home Shirt",
+    "pattern": "b2",
+    "signers": [
+      {
+        "name": "Thierry Henry",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-03"
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Dennis Bergkamp",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-10-29"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS7328921MUGG",
+    "item": "Manchester United Goalkeepers Signed Gloves",
+    "pattern": "d",
+    "signers": [
+      {
+        "name": "Alex Stepney",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-03-03"
+        },
+        "location": "Manchester"
+      },
+      {
+        "name": "Peter Schmeichel",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-05-15"
+        },
+        "location": "Manchester"
+      },
+      {
+        "name": "Edwin Van der Sar",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-03-01"
+        },
+        "location": "Amsterdam"
+      }
+    ]
+  },
+  {
+    "code": "IS141891MUGG",
+    "item": "Manchester United Goalkeepers Signed Gloves",
+    "pattern": "d",
+    "signers": [
+      {
+        "name": "Alex Stepney",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-03-03"
+        },
+        "location": "Manchester"
+      },
+      {
+        "name": "Peter Schmeichel",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-05-15"
+        },
+        "location": "Manchester"
+      },
+      {
+        "name": "Edwin Van der Sar",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-03-01"
+        },
+        "location": "Amsterdam"
+      }
+    ]
+  },
+  {
+    "code": "IS141890PB2526",
+    "item": "Barcelona Home Shirt - 2025-26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Pedri",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-03-13"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141888KKPSG2627",
+    "item": "Paris Saint-Germain Home Shirt – 2025–26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Khvicha Kvaratskhelia",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-08-07"
+        },
+        "location": "Poissy, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141887DDC00",
+    "item": "Chelsea Retro Home Shirt - 2000",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Didier Drogba",
+        "date": {
+          "precision": "MONTH",
+          "iso": "2026-04"
+        },
+        "location": "Abidjan, Ivory Coast"
+      }
+    ]
+  },
+  {
+    "code": "IS141886RNRM2324",
+    "item": "Real Madrid Home Shirt - 2023-2024",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ronaldo Nazário de Lima",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-06-19"
+        },
+        "location": "Cannes, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141885RLBM1516",
+    "item": "Bayern Munich Football Shirt - 2015-16 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Robert Lewandowski",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-10"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141884FVRM2627",
+    "item": "Real Madrid Home Shirt – 2026–27",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Federico Valverde",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-07-25"
+        },
+        "location": "Ciudad Real Madrid in Valdebebas, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141880JNPSG2526",
+    "item": "Paris Saint-Germain 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "João Neves",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-05-22"
+        },
+        "location": "Poissy, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141880GCPSG2526",
+    "item": "Paris Saint-Germain 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Gonçalo Ramos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-05-02"
+        },
+        "location": "Poissy, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141881BFMU2223",
+    "item": "Manchester United Home Shirt – 2022–23",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Bruno Fernandes",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-10-04"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141877DVB",
+    "item": "Barcelona 2025-26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "David Villa",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-16"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141874SGL05",
+    "item": "Liverpool Home Shirt - 2005",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Steven Gerrard",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-05-21"
+        },
+        "location": "Saudi Arabia"
+      }
+    ]
+  },
+  {
+    "code": "IS141874FTR9899",
+    "item": "AS Roma 1998-99 Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Francesco Totti",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-06-11"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141873PGNU84",
+    "item": "Newcastle United 1984 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paul Gascoigne",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-03-18"
+        },
+        "location": "Exeter, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141869KMRM2526",
+    "item": "Real Madrid Home Shirt 2025–26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Kylian Mbappé",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-09"
+        },
+        "location": "Madrid Airport, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141868RLB2526",
+    "item": "FC Barcelona Football Shirt - 2025-26 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Robert Lewandowski",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-10"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141867PSRG9800",
+    "item": "Manchester United 1998-00 Retro Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paul Scholes",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-07-06"
+        },
+        "location": "Manchester, United Kingdom"
+      },
+      {
+        "name": "Ryan Giggs",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-07-06"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141866WSR1314",
+    "item": "Galatasary Home Shirt - 2013-2014",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Wesley Sneijder",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-05-30"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141864DOB2526",
+    "item": "Barcelona Home Shirt 2025–26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Dani Olmo",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-03-25"
+        },
+        "location": "Las Rozas de Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS982628RGNL88",
+    "item": "Netherlands Retro Shirt - 1988 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ruud Gullit",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-10-19"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS126828MBNL88",
+    "item": "Netherlands Home Retro Shirt - 1988",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141851PMM88",
+    "item": "AC Milan Away Retro Shirt 1988",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-10-02"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141862RJC21",
+    "item": "Chelsea 2021 Champions League Final Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Reece James",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-04-09"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141797JVLC1516",
+    "item": "Leicester City 2015–16 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Jamie Vardy",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-02-06"
+        },
+        "location": "Cremona, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141797DBA45",
+    "item": "Arsenal FC Original 2004–05 Away Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Dennis Bergkamp",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-03-24"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141797HLC9597",
+    "item": "Celtic Football Shirt - 1995-97 Retro Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Henrik Larsson",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-05-14"
+        },
+        "location": "Copenhagen, Denmark"
+      }
+    ]
+  },
+  {
+    "code": "IS141797GZC",
+    "item": "Chelsea 2000 Retro Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Gianfranco Zola",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-18"
+        },
+        "location": "Chislehurst, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141816PMM",
+    "item": "AC Milan Home Retro Shirt - 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141815FBM94",
+    "item": "AC Milan Retro Home Shirt – 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Franco Baresi",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-09-25"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141854MUGG",
+    "item": "Manchester United Goalkeepers Signed Gloves",
+    "pattern": "d",
+    "signers": [
+      {
+        "name": "Alex Stepney",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-03-03"
+        },
+        "location": "Manchester"
+      },
+      {
+        "name": "Peter Schmeichel",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-05-15"
+        },
+        "location": "Manchester"
+      },
+      {
+        "name": "Edwin Van der Sar",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-03-01"
+        },
+        "location": "Amsterdam"
+      }
+    ]
+  },
+  {
+    "code": "IS141855THA1112",
+    "item": "Arsenal 2011–2012 Original Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Thierry Henry",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-03"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141855CFA78",
+    "item": "Arsenal 2007–08 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Cesc Fàbregas",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-29"
+        },
+        "location": "Como, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141855DBA45",
+    "item": "Arsenal FC Original 2004–05 Away Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Dennis Bergkamp",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-03-24"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141855DBA34",
+    "item": "Arsenal FC Original 2003–04 Away Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Dennis Bergkamp",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-03-24"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141855DDGMU",
+    "item": "Manchester United 2014–15 Goalkeeper Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "David de Gea",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-04-24"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141858JZIM",
+    "item": "Inter Milan Retro Shirt – 1998 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Javier Zanetti",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-04-01"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141859FCIT",
+    "item": "Italy Football Shirt - 2010-11 Away",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Fabio Cannavaro",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-08-05"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141861ECMU",
+    "item": "Manchester United Home Shirt - 1996-1998",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eric Cantona",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-12-02"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141857WSR",
+    "item": "Galatasary Home Shirt - 2013-2014",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Wesley Sneijder",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-05-30"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141853WSIM",
+    "item": "Inter Milan Home Shirt - 2010 CL Final",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Wesley Sneijder",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-05-30"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141852MBNL",
+    "item": "Netherlands Home Retro Shirt - 1988",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141850LMBM",
+    "item": "Bayern Munich Home Shirt 1999–01",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Lothar Matthäus",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-10-03"
+        },
+        "location": "Berlin, Germany"
+      }
+    ]
+  },
+  {
+    "code": "IS141849ECMU",
+    "item": "Manchester United Home Shirt - 1996-1998",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eric Cantona",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-12-02"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141848IRB",
+    "item": "Real Betis Home Shirt - 2024/25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Isco",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-05-15"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141797JLAA",
+    "item": "Ajax 1998-99 Retro Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Jari Litmanen",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-16"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141847PPFR",
+    "item": "France Home Shirt 2018",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paul Pogba",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-04-11"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141797AIM",
+    "item": "Inter Milan Home Shirt 2002–2003",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Adriano",
+        "date": {
+          "precision": "MONTH",
+          "iso": "2025-09"
+        },
+        "location": "Rio de Janeiro, Brazil"
+      }
+    ]
+  },
+  {
+    "code": "IS141797PGE",
+    "item": "England 1996 Retro Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paul Gascoigne",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-03-18"
+        },
+        "location": "Exeter, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141797JSMU",
+    "item": "Manchester United Football Shirt - 1998-99 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Jaap Stam",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-04-06"
+        },
+        "location": "Kampen, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141841SML",
+    "item": "Liverpool Home Shirt - 1996-98",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Steve McManaman",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-04-23"
+        },
+        "location": "Cheshire, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141826DVS10",
+    "item": "Spain Away Football Shirt – 2010 World Cup",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "David Villa",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-02-22"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141825XHS",
+    "item": "",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Xavi Hernandez",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-16"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141812DDPSG",
+    "item": "Désiré Doué Signed PSG Home Shirt 2025–26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Désiré Doué",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-04-14"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141816FBIT",
+    "item": "Franco Baresi Signed Italy Football Photo",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Franco Baresi",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-09-25"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141818ZBR",
+    "item": "Signed Brazil Football Photo - 1982 Goal",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Zico",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-05-23"
+        },
+        "location": "Kashima, Japan"
+      }
+    ]
+  },
+  {
+    "code": "IS141813PGNU",
+    "item": "Newcastle United 1984 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paul Gascoigne",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-03-18"
+        },
+        "location": "Exeter, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141817PMM",
+    "item": "AC Milan Home Retro Shirt - 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141816FBM",
+    "item": "AC Milan Retro Home Shirt – 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Franco Baresi",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-09-25"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141819FBM",
+    "item": "AC Milan Retro Home Shirt – 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Franco Baresi",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-09-25"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141820FBM",
+    "item": "AC Milan Retro Home Shirt – 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Franco Baresi",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-09-25"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141809JKT",
+    "item": "Tottenham Hotspur Retro Shirt - 1994 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Jürgen Klinsmann",
+        "date": {
+          "precision": "DAY",
+          "iso": "2021-07-01"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141602AGR",
+    "item": "Real Madrid Home Shirt – 2025–26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Arda Güler",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-11-08"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141798LMC",
+    "item": "Croatia Home Shirt – 2024",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Luka Modric",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-14"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141807MTIT",
+    "item": "Italy 1982 Retro Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco Tardelli",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-05-19"
+        },
+        "location": "Rome, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141804MBM",
+    "item": "AC Milan Home Shirt - 1988 Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141795TKRM",
+    "item": "Real Madrid Home Shirt – 2021",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Toni Kroos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-10-25"
+        },
+        "location": "Carabanchel (Madrid), Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141792PMM",
+    "item": "AC Milan Home Retro Shirt - 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141790MORS",
+    "item": "Real Sociedad Home Shirt - 2024-2025",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Mikel Oyarzabal",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-10-07"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141787EFC",
+    "item": "Chelsea Home Shirt 2025-2026",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Enzo Fernández",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-04-28"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141785RJC",
+    "item": "Chelsea 2021 Champions League Final Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Reece James",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-04-09"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141786PGE",
+    "item": "England 1996 Retro Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paul Gascoigne",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-03-18"
+        },
+        "location": "Exeter, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141783PBR",
+    "item": "Brazil Football Shirt - 1970 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Pelé",
+        "date": {
+          "precision": "DAY",
+          "iso": "2016-08-31"
+        },
+        "location": "Brazil Football Shirt - 1970 Home"
+      }
+    ]
+  },
+  {
+    "code": "IS141782PSP",
+    "item": "Spain Home Shirt – 2020-21",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Pedri",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-10-07"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141781FTS",
+    "item": "Spain Original Home Shirt - 2011-12",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Fernando Torres",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-04-25"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141780LFRM",
+    "item": "Real Madrid Retro Shirt - 2000 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Luis Figo",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-10-21"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141780RRM",
+    "item": "Real Madrid Retro Shirt - 1999-2000 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Raul",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-17"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141779PMM",
+    "item": "AC Milan Home Retro Shirt - 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141776RSP",
+    "item": "Spain Home Football Shirt – Euro 2024",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Rodrigo",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-07-02"
+        },
+        "location": "Las Rozas de Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141774FTR",
+    "item": "AS Roma 1998-99 Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Francesco Totti",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-06-11"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141770CPACM",
+    "item": "AC Milan 2024–25 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Christian Pulisic",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-31"
+        },
+        "location": "Milanello, Carnago, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141765RLB",
+    "item": "FC Barcelona Football Shirt - 2025-26 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Robert Lewandowski",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-10"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141761NPA",
+    "item": "Argentina 2026 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Nico Paz",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-30"
+        },
+        "location": "Mozzate, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141760RKM",
+    "item": "Manchester United Retro Shirt - 1994 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Roy Keane",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-04-12"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141759ECMU",
+    "item": "Manchester United Retro Away Shirt -1994-1996",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eric Cantona",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-12-02"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141758RNRM",
+    "item": "Real Madrid 2002-2003 Retro Away Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ronaldo Nazário",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-05-25"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141755GHE",
+    "item": "England 1966 World Cup Final Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Geoff Hurst",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-06-10"
+        },
+        "location": "Cheltenham, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141755PBR",
+    "item": "Brazil Football Shirt - 1970 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Pelé",
+        "date": {
+          "precision": "DAY",
+          "iso": "2016-08-31"
+        },
+        "location": "Brazil Football Shirt - 1970 Home"
+      }
+    ]
+  },
+  {
+    "code": "IS141755MKA",
+    "item": "Argentina 1978 Retro Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Mario Kempes",
+        "date": {
+          "precision": "DAY",
+          "iso": "2010-03-27"
+        },
+        "location": "Birmingham, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141752PMM",
+    "item": "AC Milan Home Retro Shirt - 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141750LEP",
+    "item": "Paris Saint Germain Home Shirt 2025–26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Luis Enrique",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-04-17"
+        },
+        "location": "Poissy, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141747PMM",
+    "item": "AC Milan Home Retro Shirt - 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141737SGM",
+    "item": "Mexico 2026 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Santiago Giménez",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-31"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS14736DBA",
+    "item": "AFC Ajax 2024–25 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Dennis Bergkamp",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-03-24"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141733RNRM",
+    "item": "Real Madrid 2003-2004 Retro Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ronaldo Nazário",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-05-25"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS196253SAFM",
+    "item": "Manchester United Retro Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Sir Alex Ferguson",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-02-01"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141726DDFR",
+    "item": "France Home Shirt 2026",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Désiré Doué",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-06-06"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141720GZC",
+    "item": "Chelsea 2000 Retro Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Gianfranco Zola",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-18"
+        },
+        "location": "Chislehurst, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141724DDP",
+    "item": "Paris Saint Germain Home Shirt 2025–26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Désiré Doué",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-04-14"
+        },
+        "location": "Poissy, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141716MCS",
+    "item": "Spain Home Shirt – Euro 2024",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marc Cucurella",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-07-02"
+        },
+        "location": "Las Rozas de Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141717JZIM",
+    "item": "Inter Milan Retro Shirt – 1998 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Javier Zanetti",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-04-01"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141701ECMU",
+    "item": "Manchester United Retro Home Shirt - 1996",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eric Cantona",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-12-17"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141701XHB",
+    "item": "FC Barcelona Home Shirt - 2023-24",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Xavi Hernández",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-16"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141701AIB",
+    "item": "FC Barcelona Home Shirt - 2017-18",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Andrés Iniesta",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-09-17"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141702DMN",
+    "item": "SSC Napoli 2017–18 Third Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Dries Mertens",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-06-14"
+        },
+        "location": "Leuven, Belgium"
+      }
+    ]
+  },
+  {
+    "code": "IS141702EHB",
+    "item": "Belgium Home Shirt 2022",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eden Hazard",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-11"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141702AIS",
+    "item": "Spain 2020 Football Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Andrés Iniesta",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-09-17"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141711PCE",
+    "item": "England Home Shirt - 1990 World Cup",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paul Gascoigne",
+        "date": {
+          "precision": "DAY",
+          "iso": "2022-10-07"
+        },
+        "location": "Bristol, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141715LMG",
+    "item": "Germany 2024 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Lothar Matthaüs",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-10-03"
+        },
+        "location": "Berlin, Germany"
+      }
+    ]
+  },
+  {
+    "code": "IS141713PMIT",
+    "item": "Italy Shirt - 1998-99 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141698MOA",
+    "item": "Arsenal Home Shirt – 2024–25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Martin Ødegaard",
+        "date": {
+          "precision": "MONTH",
+          "iso": "2025-09"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141544DPSG",
+    "item": "Paris Saint-Germain 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ousmane Dembélé",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-06-06"
+        },
+        "location": "Poissy, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141696ECMU",
+    "item": "Manchester United Retro Home Shirt - 1996",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eric Cantona",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-12-17"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141695BBNL",
+    "item": "Netherlands Home Shirt 2024–2026",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Brian Brobbey",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-11-17"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141690RLP",
+    "item": "Poland 2008 Original Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Robert Lewandowski",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-10"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141699XHS",
+    "item": "",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Xavi Hernandez",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-02-02"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141692FMIM",
+    "item": "Inter Milan 2025–26 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Federico Dimarco",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-02-02"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141693PMM",
+    "item": "AC Milan Home Retro Shirt - 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS196249ASM",
+    "item": "AC Milan 2002-03 Original Away Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Andriy Shevchenko",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-06-09"
+        },
+        "location": "Surrey, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS196255RGAM",
+    "item": "AC Milan Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ruud Gullit",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-04-19"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS196260WSIM",
+    "item": "Inter Milan Home Shirt - 2010 CL Final",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Wesley Sneijder",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-05-30"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS196253MBM",
+    "item": "AC Milan Home Shirt - 1988 Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141674GSAM",
+    "item": "Atlético de Madrid Home Shirt – 2024–25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Giuliano Simeone",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-14"
+        },
+        "location": "Majadahonda, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141671PBR",
+    "item": "Brazil Football Shirt - 1970 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Pelé",
+        "date": {
+          "precision": "DAY",
+          "iso": "2016-08-31"
+        },
+        "location": "Brazil Football Shirt - 1970 Home"
+      }
+    ]
+  },
+  {
+    "code": "IS141673WSR",
+    "item": "Galatasary Home Shirt - 2013-2014",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Wesley Sneijder",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-05-30"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141638RLBD",
+    "item": "Borussia Dortmund Football Shirt - 2011-12 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Robert Lewandowski",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-10"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141638RLFB",
+    "item": "FC Barcelona Football Shirt - 2025-26 Away",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Robert Lewandowski",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-10"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141638RLBM",
+    "item": "Bayern Munich Football Shirt - 2015-16 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Robert Lewandowski",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-10"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141655BBNL",
+    "item": "Netherlands Home Shirt 2024–2026",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Brian Brobbey",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-11-17"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141659EZA",
+    "item": "Arsenal Home Shirt - 2025-26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eberechi Eze",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-11-16"
+        },
+        "location": "Bilboa, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141660LMC",
+    "item": "Croatia Home Shirt – 2024",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Luka Modric",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-14"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141658RCR",
+    "item": "Real Madrid Retro Shirt - 1999-00 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Roberto Carlos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-23"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141656MOL",
+    "item": "Liverpool 1998-2000 Retro Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Michael Owen",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-05-13"
+        },
+        "location": "Cheshire, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141656SGL",
+    "item": "Liverpool Home Shirt - 2005",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Steven Gerrard",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-05-21"
+        },
+        "location": "Saudi Arabia"
+      }
+    ]
+  },
+  {
+    "code": "IS141651PCB",
+    "item": "FC Barcelona Home Shirt - 2025-26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Pau Cubarsí",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-11-11"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141650MKA",
+    "item": "Argentina 1978 Retro Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Mario Kempes",
+        "date": {
+          "precision": "DAY",
+          "iso": "2010-03-27"
+        },
+        "location": "Birmingham, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141645DCRM",
+    "item": "Real Madrid Home Shirt 2025-2026",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Dani Carvajal",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-12-14"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141460RM23",
+    "item": "Real Madrid Home Shirt – 2022/23",
+    "pattern": "d",
+    "signers": [
+      {
+        "name": "Zinedine Zidane",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-05-03"
+        },
+        "location": "Miami"
+      },
+      {
+        "name": "Ronaldo Nazário",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-06-19"
+        },
+        "location": "Cannes"
+      },
+      {
+        "name": "Roberto Carlos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-23"
+        },
+        "location": "Madrid"
+      },
+      {
+        "name": "Raúl",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-17"
+        },
+        "location": "Madrid"
+      }
+    ]
+  },
+  {
+    "code": "IS141635RLB",
+    "item": "FC Barcelona Shirt - 2025-26 Away",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Robert Lewandowski",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-10"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141631PMM",
+    "item": "AC Milan Home Retro Shirt - 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141629ENBR",
+    "item": "Brazil 2024 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Endrick",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-06-17"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141616MOA",
+    "item": "Arsenal Home Shirt 2025–26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Martin Ødegaard",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-04-30"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141617RGNL",
+    "item": "Netherlands Retro Shirt - 1988 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ruud Gullit",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-10-19"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141621MCC",
+    "item": "Chelsea Home Shirt – 2025–26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marc Cucurella",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-10-06"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141619ECMU",
+    "item": "Manchester United Retro Home Shirt - 1996",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eric Cantona",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-12-17"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141619MBNL",
+    "item": "Netherlands Home Retro Shirt - 1988",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141595EMBR",
+    "item": "Brazil Home Shirt 2024",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Éder Militão",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-12-01"
+        },
+        "location": "Madrids, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141595CABR",
+    "item": "Brazil Home Shirt 2002",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Cafu",
+        "date": {
+          "precision": "MONTH",
+          "iso": "2024-05"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141611JZIM",
+    "item": "Inter Milan Retro Shirt – 1998 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Javier Zanetti",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-04-01"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141606RCFB",
+    "item": "Roberto Carlos Signed Football Boot",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Roberto Carlos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-23"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141607RCR",
+    "item": "Real Madrid Retro Shirt - 1999-00 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Roberto Carlos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-23"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141595SPMS",
+    "item": "Spain Home Shirt 2024 – Multi Signed",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Álvaro Morata",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-05-31"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Robin Le Normand",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-05-31"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Mikel Merino",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-05-31"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Nico Williams",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-05-31"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Joselu",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-05-31"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Álex Remiro",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-05-31"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Dani Vivian",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-05-31"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Martín Zubimendi",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-05-31"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Aymeric Laporte",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-05-31"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Ferran Torres",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-05-31"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141595MKAR",
+    "item": "Argentina 1978 Retro Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Mario Kempes",
+        "date": {
+          "precision": "DAY",
+          "iso": "2010-03-27"
+        },
+        "location": "Birmingham, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141595FCIT",
+    "item": "Italy Football Shirt - 2010-11 Away",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Fabio Cannavaro",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-08-05"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141595PMIT",
+    "item": "Italy Home Shirt - 2002",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141595RCB",
+    "item": "Brazil Home Shirt - 2004-06",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Roberto Carlos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-23"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141595MBRGN",
+    "item": "Netherlands Home Shirt - 1988 Retro",
+    "pattern": "b2",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      },
+      {
+        "name": "Ruud Gullit",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-10-19"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141595LYS",
+    "item": "Spain Home Shirt 2024",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Lamine Yamal",
+        "date": {
+          "precision": "MONTH",
+          "iso": "2025-11"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141599WSR",
+    "item": "Galatasary Home Shirt - 2013-2014",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Wesley Sneijder",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-05-30"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141592LEP",
+    "item": "PSG Home Shirt 2025–2026",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Luis Enrique",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-04-17"
+        },
+        "location": "Poissy, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141585EMA",
+    "item": "Argentina Home Goalkeeper Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Emiliano Martínez",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-11-28"
+        },
+        "location": "Little Aston, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141581MRM",
+    "item": "Real Madrid Away Shirt - 2019-2020",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marcelo",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-05-08"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141575PMM",
+    "item": "AC Milan Home Retro Shirt - 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141578JGB",
+    "item": "Barcelona Goalkeeper Shirt 2025–26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Joan García",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-03-25"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141573AGAM",
+    "item": "Atlético de Madrid 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Antoine Griezmann",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-03-09"
+        },
+        "location": "Majadahonda, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141572ODP",
+    "item": "Paris Saint-Germain 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ousmane Dembélé",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-04-19"
+        },
+        "location": "Poissy, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141568RGM",
+    "item": "AC Milan Retro Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ruud Gullit",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-04-19"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141565AGF",
+    "item": "France Home Shirt 2025",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Antoine Griezmann",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-03-09"
+        },
+        "location": "Majadahonda, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141565KMF",
+    "item": "France Away Shirt 2020",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Kylian Mbappé",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-09"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141565LYS",
+    "item": "Spain Home Shirt 2024",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Lamine Yamal",
+        "date": {
+          "precision": "MONTH",
+          "iso": "2025-11"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141565RCB",
+    "item": "Brazil Home Shirt - 2004-06",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Roberto Carlos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-23"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141564THDBA",
+    "item": "Arsenal Home Shirt",
+    "pattern": "b2",
+    "signers": [
+      {
+        "name": "Thierry Henry",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-03"
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Dennis Bergkamp",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-10-29"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141557DMN4",
+    "item": "SSC Napoli 2017–18 Fourth Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Dries Mertens",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-06-14"
+        },
+        "location": "Leuven, Belgium"
+      }
+    ]
+  },
+  {
+    "code": "US141548VPSG",
+    "item": "Paris Saint-Germain 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Vitinha",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-02-24"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141556FTC",
+    "item": "Chelsea - 2012 Champions League Final Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Fernando Torres",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-12-01"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141555PMM",
+    "item": "AC Milan Home Retro Shirt - 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141554WWNL",
+    "item": "Netherlands Home Shirt - 2024",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Wout Weghorst",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-08-13"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "US141552PFCB",
+    "item": "FC Barcelona Home Shirt – 2025–26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Pedri",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-20"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141524IRLP2",
+    "item": "Liverpool Retro Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ian Rush",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-01-26"
+        },
+        "location": "Chester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "US141548DDP",
+    "item": "Paris Saint-Germain 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Désiré Doué",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-04-14"
+        },
+        "location": "Poissy, France"
+      }
+    ]
+  },
+  {
+    "code": "US141543VPSG",
+    "item": "Paris Saint-Germain 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Vitinha",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-02-24"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "US141544ODP",
+    "item": "Paris Saint-Germain 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ousmane Dembélé",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-04-19"
+        },
+        "location": "Poissy, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141542XHB",
+    "item": "FC Barcelona Home Shirt - 2023-24",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Xavi Hernández",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-16"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141541BBA",
+    "item": "Ajax Away Shirt - 2024-25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Brian Brobbey",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-11-17"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141539PGE",
+    "item": "England Home Shirt - 1990 World Cup",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paul Gascoigne",
+        "date": {
+          "precision": "DAY",
+          "iso": "2022-10-07"
+        },
+        "location": "Bristol, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141537EHB",
+    "item": "Belgium Home Shirt 2022",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eden Hazard",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-11"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141464BMS",
+    "item": "Bayern Munich 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Bayern Munich squad 2025/2026",
+        "date": null,
+        "location": "Munich, Germany"
+      }
+    ]
+  },
+  {
+    "code": "IS141535ABB",
+    "item": "FC Barcelona Away Shirt 2025-26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Aitana Bonmatí",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-10-22"
+        },
+        "location": "Las Rozas de Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141530VPSG",
+    "item": "Paris Saint-Germain 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Vitinha",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-02-24"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141524IRL",
+    "item": "Liverpool Retro Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ian Rusgh",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-01-26"
+        },
+        "location": "Chester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141524FDIM",
+    "item": "Inter Milan 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Federico Dimarco",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-02-02"
+        },
+        "location": "BPER Training Centre - Appiano Gentile, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141524HMIM",
+    "item": "Inter Milan 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Henrikh Mkhitaryan",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-02-02"
+        },
+        "location": "BPER Training Centre - Appiano Gentile, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141524FPEIM",
+    "item": "Inter Milan 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Francesco Pio Es",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-02-02"
+        },
+        "location": "BPER Training Centre - Appiano Gentile, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141524HCIM",
+    "item": "Inter Milan 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Hakan Çalhanoğlu",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-02-02"
+        },
+        "location": "BPER Training Centre - Appiano Gentile, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141525PMM",
+    "item": "AC Milan Home Retro Shirt - 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141522RPN",
+    "item": "Netherlands Home Shirt - 2008-10",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Robin van Persie",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-05-21"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141523THB",
+    "item": "FC Barcelona Home Shirt - 2006-07",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Thierry Henry",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-08-29"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141520PMM",
+    "item": "AC Milan Home Retro Shirt - 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141517RRM",
+    "item": "Real Madrid Retro Shirt - 1999-2000 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Raul",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-17"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141515KMU",
+    "item": "Manchester United 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Kobbie Mainoo",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-02-21"
+        },
+        "location": "Carrington, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141514WSIM",
+    "item": "Inter Milan Home Shirt - 2010 CL Final",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Wesley Sneijder",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-10-20"
+        },
+        "location": "Vianen, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141514HCIM",
+    "item": "Inter Milan 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Hakan Çalhanoğlu",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-02-02"
+        },
+        "location": "BPER Training Centre - Appiano Gentile, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141513FVRM",
+    "item": "Real Madrid Home Shirt 2024-2025",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Federico Valverde",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-10-30"
+        },
+        "location": "WiZink Center - Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141494AIS",
+    "item": "Spain Away Shirt 2010 – Final Edition",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Andrés Iniesta",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-08"
+        },
+        "location": "Fuentealbilla, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141507AIB",
+    "item": "FC Barcelona Home Shirt - 2017-18",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Andrés Iniesta",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-09-17"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141510MBM",
+    "item": "AC Milan Home Shirt - 1988 Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141509EHB",
+    "item": "Belgium Home Shirt 2022",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eden Hazard",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-11"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141498DVS",
+    "item": "Spain Away Shirt – 2010 World Cup",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "David Villa",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-02-22"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141495MBNL",
+    "item": "Netherlands Home Retro Shirt - 1988",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141492AGRM",
+    "item": "Real Madrid Away Shirt - 2025-2026",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Arda Güler",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-11-08"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141489SGM",
+    "item": "Mexico 2026 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Santiago Giménez",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-31"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141490AB",
+    "item": "Brazil Home Shirt 2006",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Adriano",
+        "date": {
+          "precision": "MONTH",
+          "iso": "2025-09"
+        },
+        "location": "Rio de Janeiro, Brazil"
+      }
+    ]
+  },
+  {
+    "code": "IS141473DBA",
+    "item": "AFC Ajax 2024–25 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Dennis Bergkamp",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-03-24"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141458AIM",
+    "item": "Inter Milan Home Shirt 2002–2003",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Adriano",
+        "date": {
+          "precision": "MONTH",
+          "iso": "2025-09"
+        },
+        "location": "Rio de Janeiro, Brazil"
+      }
+    ]
+  },
+  {
+    "code": "IS141458LMIM",
+    "item": "Inter Milan Football Shirt – 1990 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Lothar Matthäus",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-10-03"
+        },
+        "location": "Berlin, Germany"
+      }
+    ]
+  },
+  {
+    "code": "IS141458JZIM",
+    "item": "Inter Milan Retro Shirt – 1998 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Javier Zanetti",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-04-01"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141458DDIM",
+    "item": "Inter Milan 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Denzel Dumfries",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-02-02"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141458MBM",
+    "item": "AC Milan Home Shirt - 1988 Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141458LFRM",
+    "item": "Real Madrid Home Shirt – 2000",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Luis Figo",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-10-21"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141458WSIM",
+    "item": "Inter Milan Home Shirt - 2010 CL Final",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Wesley Sneijder",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-10-20"
+        },
+        "location": "Vianen, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141462WSIM",
+    "item": "Inter Milan Home Shirt - 2010 CL Final",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Wesley Sneijder",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-10-20"
+        },
+        "location": "Vianen, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141465LMRM",
+    "item": "Real Madrid 2025–26 Tribute Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Luka Modric",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-26"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141460AGRM",
+    "item": "Real Madrid Home Shirt – 2023–24",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Arda Güler",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-08-03"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141467DMN",
+    "item": "SSC Napoli 2017–18 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Dries Mertens",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-06-14"
+        },
+        "location": "Leuven, Belgium"
+      }
+    ]
+  },
+  {
+    "code": "IS141461SGL",
+    "item": "Liverpool Home Shirt - 2005",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Steven Gerrard",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-05-21"
+        },
+        "location": "Saudi Arabia"
+      }
+    ]
+  },
+  {
+    "code": "IS141470ECMU",
+    "item": "Manchester United Home Shirt - 1996-1998",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eric Cantona",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-12-02"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141455RM23",
+    "item": "Real Madrid Home Shirt – 2022/23",
+    "pattern": "d",
+    "signers": [
+      {
+        "name": "Zinedine Zidane",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-05-03"
+        },
+        "location": "Miami"
+      },
+      {
+        "name": "Ronaldo Nazário",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-06-19"
+        },
+        "location": "Cannes"
+      },
+      {
+        "name": "Roberto Carlos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-23"
+        },
+        "location": "Madrid"
+      },
+      {
+        "name": "Raúl",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-17"
+        },
+        "location": "Madrid"
+      }
+    ]
+  },
+  {
+    "code": "IS141448AGRM",
+    "item": "Real Madrid Home Shirt – 2025–26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Arda Güler",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-11-08"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141450FTR",
+    "item": "AS Roma 2001-2002 Retro Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Francesco Totti",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-06-11"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141451FTAM",
+    "item": "Atletico Madrid 2015-16 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Fernando Torres",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-04-25"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141452NPC",
+    "item": "Como 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Nico Paz",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-29"
+        },
+        "location": "Como Training Center, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS198765RKM",
+    "item": "Manchester United Retro Shirt - 1994 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Roy Keane",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-04-12"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141434THDBA",
+    "item": "Arsenal Home Shirt",
+    "pattern": "b2",
+    "signers": [
+      {
+        "name": "Dennis Bergkamp",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-10-29"
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Thierry Henry",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-03"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141433MBM",
+    "item": "AC Milan Home Shirt - 1988 Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141430BBA",
+    "item": "Ajax Away Shirt - 2024-25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Brian Brobbey",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-11-17"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141422RAB",
+    "item": "FC Barcelona 2024–25 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ronald Araújo",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-12-29"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141422GB",
+    "item": "FC Barcelona 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Gavi",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-20"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141419PCE",
+    "item": "England Home Shirt - 1990 World Cup",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paul Gascoigne",
+        "date": {
+          "precision": "DAY",
+          "iso": "2022-10-07"
+        },
+        "location": "Bristol, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141420RCMC",
+    "item": "Manchester City Home Shirt 2025-2026",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Rayan Cherki",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-30"
+        },
+        "location": "Manchester City Training Center, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141418PGE",
+    "item": "England 1996 Retro Away Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paul Gascoigne",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-10-15"
+        },
+        "location": "Broadstone, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141417LMRM",
+    "item": "Real Madrid 2025–26 Tribute Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Luka Modric",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-26"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141416GB",
+    "item": "FC Barcelona 2025–26 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Gavi",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-20"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141408TCR",
+    "item": "Real Madrid Goalkeeper Shirt – 2025–26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Thibaut Courtois",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-12-30"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141407RMC",
+    "item": "Manchester City Home Shirt - 2021-22",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Rodrigo",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-10-23"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141407LMC",
+    "item": "Croatia Home Shirt – 2024",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Luka Modric",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-14"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141409FTB",
+    "item": "FC Barcelona 2025–26 Away Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ferran Torres",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-20"
+        },
+        "location": "Barcelona, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141400PCE",
+    "item": "England Home Shirt - 1990 World Cup",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paul Gascoigne",
+        "date": {
+          "precision": "DAY",
+          "iso": "2022-10-07"
+        },
+        "location": "Bristol, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141398BBA",
+    "item": "Ajax Home Shirt - 2024-25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Brian Brobbey",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-11-17"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141397IRL",
+    "item": "Liverpool Retro Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ian Rush",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-01-26"
+        },
+        "location": "Chester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS980108WWA",
+    "item": "Ajax Home Shirt - 2024-25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Wout Weghorst",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-08-13"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141389AIB",
+    "item": "FC Barcelona Home Shirt - 2017-18",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Andrés Iniesta",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-09-17"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141389XHB",
+    "item": "FC Barcelona Home Shirt - 2023-24",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Xavi Hernández",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-16"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141386FVRM",
+    "item": "Real Madrid Home Shirt 2024-2025",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Federico Valverde",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-10-30"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141384FBM",
+    "item": "AC Milan Retro Home Shirt – 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Franco Baresi",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-09-25"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141379PCE",
+    "item": "England Home Shirt - 1990 World Cup",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paul Gascoigne",
+        "date": {
+          "precision": "DAY",
+          "iso": "2022-10-07"
+        },
+        "location": "Bristol, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141374SGL",
+    "item": "Liverpool Home Shirt - 2005 Champions League Final",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Steven Gerrard",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-31"
+        },
+        "location": "Formby, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141340LMRM",
+    "item": "Real Madrid 2025–26 Tribute Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Luka Modric",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-26"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141373LMRM",
+    "item": "Real Madrid 2025–26 Tribute Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Luka Modric",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-26"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141368RM23",
+    "item": "Real Madrid Home Shirt – 2022/23",
+    "pattern": "d",
+    "signers": [
+      {
+        "name": "Zinedine Zidane",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-05-03"
+        },
+        "location": "Miami"
+      },
+      {
+        "name": "Ronaldo Nazário",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-06-19"
+        },
+        "location": "Cannes"
+      },
+      {
+        "name": "Roberto Carlos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-23"
+        },
+        "location": "Madrid"
+      },
+      {
+        "name": "Raúl",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-17"
+        },
+        "location": "Madrid"
+      }
+    ]
+  },
+  {
+    "code": "IS141359PMMF",
+    "item": "AC Milan Retro Shirt - 1994 European Cup Final",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141361PCB",
+    "item": "FC Barcelona Home Shirt - 2025/26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Pau Cubarsí",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-11-11"
+        },
+        "location": "Spain Training Center, Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141356LMRM",
+    "item": "Real Madrid 2024–25 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Luka Modric",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-14"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141353FTR",
+    "item": "AS Roma 1998-99 Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Francesco Totti",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-06-11"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141350LMC",
+    "item": "Croatia Home Shirt – 2024",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Luka Modric",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-14"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141348JZI",
+    "item": "Inter Milan Retro Shirt – 1998 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Javier Zanetti",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-04-01"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141347PMM",
+    "item": "AC Milan Home Retro Shirt - 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141347PGE",
+    "item": "England 1996 Retro Away Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paul Gascoigne",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-10-15"
+        },
+        "location": "Broadstone, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141344PMM",
+    "item": "AC Milan Home Retro Shirt - 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141341FTR",
+    "item": "AS Roma 1998-99 Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Francesco Totti",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-06-11"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141279RM23",
+    "item": "Real Madrid Home Shirt – 2022/23",
+    "pattern": "d",
+    "signers": [
+      {
+        "name": "Zinedine Zidane",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-05-03"
+        },
+        "location": "Miami"
+      },
+      {
+        "name": "Ronaldo Nazário",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-06-19"
+        },
+        "location": "Cannes"
+      },
+      {
+        "name": "Roberto Carlos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-23"
+        },
+        "location": "Madrid"
+      },
+      {
+        "name": "Raúl",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-17"
+        },
+        "location": "Madrid"
+      }
+    ]
+  },
+  {
+    "code": "IS141327RM23",
+    "item": "Real Madrid Home Shirt – 2022/23",
+    "pattern": "d",
+    "signers": [
+      {
+        "name": "Zinedine Zidane",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-05-03"
+        },
+        "location": "Miami"
+      },
+      {
+        "name": "Ronaldo Nazário",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-06-19"
+        },
+        "location": "Cannes"
+      },
+      {
+        "name": "Roberto Carlos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-23"
+        },
+        "location": "Madrid"
+      },
+      {
+        "name": "Raúl",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-17"
+        },
+        "location": "Madrid"
+      }
+    ]
+  },
+  {
+    "code": "IS141333JZI",
+    "item": "Inter Milan Retro Shirt – 1998 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Javier Zanetti",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-04-01"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141334RM23",
+    "item": "Real Madrid Home Shirt – 2022/23",
+    "pattern": "d",
+    "signers": [
+      {
+        "name": "Zinedine Zidane",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-05-03"
+        },
+        "location": "Miami"
+      },
+      {
+        "name": "Ronaldo Nazário",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-06-19"
+        },
+        "location": "Cannes"
+      },
+      {
+        "name": "Roberto Carlos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-23"
+        },
+        "location": "Madrid"
+      },
+      {
+        "name": "Raúl",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-17"
+        },
+        "location": "Madrid"
+      }
+    ]
+  },
+  {
+    "code": "IS141331RKMU",
+    "item": "Manchester United Retro Shirt - 1994 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Roy Keane",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-04-12"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141326WPP",
+    "item": "Paris Saint-Germain 2025–26 Away Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Willian Pacho",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-14"
+        },
+        "location": "PSG Training Center, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141321ECMU",
+    "item": "Manchester United Away Shirt - 1994-1996",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eric Cantona",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-12-02"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141320JKT",
+    "item": "Tottenham Hotspur Retro Shirt - 1994 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Jürgen Klinsmann",
+        "date": {
+          "precision": "DAY",
+          "iso": "2021-07-01"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141319MBM",
+    "item": "AC Milan Home Shirt - 1988 Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141312DDP",
+    "item": "Paris Saint-Germain Away - 2024–25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Désiré Doué",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-20"
+        },
+        "location": "Poissy - PSG Training Center, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141309GZC",
+    "item": "Chelsea Football Shirt – 1998 European Cup Final",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Gianfranco Zola",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-18"
+        },
+        "location": "Chislehurst, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141308MBM",
+    "item": "AC Milan Home Shirt - 1988 Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141307ECMU",
+    "item": "Manchester United Away Shirt - 1994-1996",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eric Cantona",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-12-02"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141304CFLJT",
+    "item": "Chelsea Retro Home Shirt - Dual Frame",
+    "pattern": "b2",
+    "signers": [
+      {
+        "name": "Frank Lampard",
+        "date": {
+          "precision": "DAY",
+          "iso": "2021-08-26"
+        },
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "John Terry",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-05-18"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141304PMM",
+    "item": "AC Milan Home Retro Shirt - 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141241MBM",
+    "item": "AC Milan Home Shirt - 1988 Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141290PMM",
+    "item": "AC Milan Shirt - 1994 European Cup Final",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141289TAAL",
+    "item": "Liverpool Home Shirt - 2019-20",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Trent Alexander-Arnold",
+        "date": {
+          "precision": "DAY",
+          "iso": "2020-07-17"
+        },
+        "location": "Liverpool, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141283FTR",
+    "item": "AS Roma 1998-99 Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Francesco Totti",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-06-11"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141286ECU",
+    "item": "Manchester United Home Shirt - 1996-1998",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eric Cantona",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-12-02"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141287JSM",
+    "item": "AC Milan Home Shirt 2004-05",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Jaap Stam",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-12-23"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141274BBA",
+    "item": "Ajax Home Shirt - 2024-25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Brian Brobbey",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-11-17"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141271FLB",
+    "item": "FC Barcelona Home Shirt – 2024/25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Fermín López",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-01-25"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141269FTR",
+    "item": "AS Roma Home Shirt - 2001/02",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Francesco Totti",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-06-11"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141266JWF",
+    "item": "Feyenoord Home Shirt - 1994-95",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "John de Wolf",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-10-20"
+        },
+        "location": "Vianen, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141265BBA",
+    "item": "Ajax Home Shirt - 2024-25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Brian Brobbey",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-11-17"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141256KMRM",
+    "item": "Real Madrid Home Shirt 2025–26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Kylian Mbappé",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-09"
+        },
+        "location": "Madrid Airport, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141257RCB2002",
+    "item": "Brazil Home Shirt – 2002 World Cup",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Roberto Carlos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-10-21"
+        },
+        "location": "Santiago Bernabéu Stadium, Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141257RCB46",
+    "item": "Brazil Home Shirt - 2005/06",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Roberto Carlos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-23"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141244JSM",
+    "item": "AC Milan Home Shirt 2004-05",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Jaap Stam",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-12-23"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141239AIB",
+    "item": "FC Barcelona 2017-18 Home Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Andrés Iniesta",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-09-17"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141239LMC",
+    "item": "Croatia Home Shirt – 2024",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Luka Modric",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-14"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141238ECMU",
+    "item": "Manchester United Home Shirt - 1996-1998",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eric Cantona",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-12-02"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141237MBN",
+    "item": "Netherlands Home Shirt - 1988 Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141235WSIM",
+    "item": "Inter Milan - 2010 Home Champions League Final",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Wesley Sneijder",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-10-20"
+        },
+        "location": "Vianen, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141225EHC",
+    "item": "Chelsea Home Shirt 2012–13",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eden Hazard",
+        "date": {
+          "precision": "DAY",
+          "iso": "2026-01-10"
+        },
+        "location": "Majadahonda, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141223ICRM",
+    "item": "Real Madrid Goalkeeper Shirt – 2011",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Iker Casillas",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-10-27"
+        },
+        "location": "Real Madrid City, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141221ARB",
+    "item": "Real Betis Home Shirt - 2025-2026",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Antony",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-12-13"
+        },
+        "location": "Eurobuilding, Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "AS988123MBN",
+    "item": "Netherlands Home Shirt - 1988 Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "DBNL4919F",
+    "item": "Netherlands Home Shirt - 1994 Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Dennis Bergkamp",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-10-31"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "EXC98102",
+    "item": "Netherlands Home Shirt - 2008/2010",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Robin van Persie",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-05-21"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141217MBN",
+    "item": "Netherlands Home Shirt - 1988 Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141216JAA",
+    "item": "Argentina Home Shirt - 2025",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Julián Álvarez",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-11-12"
+        },
+        "location": "Atlético Training Center, Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141214SGL",
+    "item": "Liverpool Home Shirt - 2005",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Steven Gerrard",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-05-21"
+        },
+        "location": "Saudi Arabia"
+      }
+    ]
+  },
+  {
+    "code": "IS141215FMRM",
+    "item": "Real Madrid Home Shirt – 2025/26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Franco Mastantuono",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-08-02"
+        },
+        "location": "Madrid Airport, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141211MBM",
+    "item": "AC Milan Home Shirt - 1988 Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141116PFCB",
+    "item": "FC Barcelona Home Shirt – 2025/26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Pedri",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-02"
+        },
+        "location": "Spain National Team Training Center"
+      }
+    ]
+  },
+  {
+    "code": "IS141196LYS",
+    "item": "Spain Home Shirt 2024",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Lamine Yamal",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-11-11"
+        },
+        "location": "Spain Training Center in Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141209FTB",
+    "item": "Barcelona Home Shirt 2025-26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ferran Torres",
+        "date": {
+          "precision": "MONTH",
+          "iso": "2025-11"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "MVB040188",
+    "item": "AC Milan Home Shirt - 1988 Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marco van Basten",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-11-21"
+        },
+        "location": "Utrecht, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "DBNL040193",
+    "item": "Netherlands Home Shirt - 1994 Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Dennis Bergkamp",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-10-31"
+        },
+        "location": "Manchester, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141206GZC",
+    "item": "Chelsea Football Shirt – 1998 European Cup Final",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Gianfranco Zola",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-18"
+        },
+        "location": "Chislehurst, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141189TAL",
+    "item": "Liverpool Home Shirt - 2019/20",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Trent Alexander-Arnold",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-17"
+        },
+        "location": "Liverpool, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141199THA",
+    "item": "Arsenal Home Shirt - Centenary Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Thierry Henry",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-03"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141200ECF",
+    "item": "France Home Shirt – Euro 2024",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eduardo Camavinga",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-05-14"
+        },
+        "location": "Santiago Bernabéu Stadium in Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141190PBR",
+    "item": "Brazil Retro Home Shirt - 1970",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Pelé",
+        "date": {
+          "precision": "DAY",
+          "iso": "2016-08-31"
+        },
+        "location": "São Paulo, Brazil"
+      }
+    ]
+  },
+  {
+    "code": "IS141192PMAM",
+    "item": "AC Milan Home Shirt - 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141191LYB",
+    "item": "FC Barcelona Home Shirt - 2024/25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Lamine Yamal",
+        "date": {
+          "precision": "MONTH",
+          "iso": "2025-11"
+        },
+        "location": "Barcelona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS102243EXC",
+    "item": "Manchester United Away Shirt - 1994-1996",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eric Cantona",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-12-02"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141185FLB",
+    "item": "FC Barcelona Home Shirt – 2024/25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Fermín López",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-07-01"
+        },
+        "location": "Ciudad del Fútbol in Las Rozas, Madrid"
+      }
+    ]
+  },
+  {
+    "code": "IS141183AGAM",
+    "item": "Atlético Madrid Home Shirt - 2024/2025",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Antoine Griezmann",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-08"
+        },
+        "location": "Atlético de Madrid Training Center, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141182JSMU",
+    "item": "Manchester United Home Shirt - 1998/99",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Jaap Stam",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-12-23"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141177AHA",
+    "item": "Ajax Football Shirt - Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Arie Haan",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-08-13"
+        },
+        "location": "Vianen, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141178RCRM",
+    "item": "Real Madrid Away Shirt - 1999/2000",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Roberto Carlos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-23"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141162RGNL",
+    "item": "Netherlands Home Shirt - 1988 Retro",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Ruud Gullit",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-04-08"
+        },
+        "location": "London, United Kingdom"
+      }
+    ]
+  },
+  {
+    "code": "IS141176DBA",
+    "item": "Arsenal Home Shirt - 2023/24",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Dennis Bergkamp",
+        "date": {
+          "precision": "DAY",
+          "iso": "2023-10-19"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141175JLA",
+    "item": "Ajax Football Shirt - 1998-99 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Jari Litmanen",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-16"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141173WSNL",
+    "item": "Netherlands Home Shirt - 2010 Home World Cup Final",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Wesley Sneijder",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-01-03"
+        },
+        "location": "Vianen, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141085DBAR",
+    "item": "Original Arsenal 2005-06 Commemorative Highbury Football Shirt",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Dennis Bergkamp",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-04-08"
+        },
+        "location": "Amsterdam, Netherlands"
+      }
+    ]
+  },
+  {
+    "code": "IS141146EHCH",
+    "item": "Chelsea Home Shirt 2024/25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eden Hazard",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-11"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141113IKSG",
+    "item": "Spain Goalkeeper Shirt – 2010 World Cup",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Iker Casillas",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-27"
+        },
+        "location": "Real Madrid City in Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141121AISP",
+    "item": "Spain Home Shirt 2010",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Andrés Iniesta",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-07-08"
+        },
+        "location": "Fuentealbilla, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141129DRAR",
+    "item": "Arsenal Home Shirt - 2025/26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Declan Rice",
+        "date": {
+          "precision": "DAY",
+          "iso": "2018-06-16"
+        },
+        "location": "Girona, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141130FMRP",
+    "item": "River Plate Home Football Shirt – 2024/25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Franco Mastantuono",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-08-02"
+        },
+        "location": "Madrid Airport, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141133MRM",
+    "item": "Real Madrid Away Shirt – 2016/17 CL Final",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Marcelo",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-27"
+        },
+        "location": "Real Madrid City, Spain"
+      }
+    ]
+  },
+  {
+    "code": "EXC100612",
+    "item": "Manchester United Away Shirt -1994/1996",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eric Cantona",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-12-02"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141118PMACM",
+    "item": "AC Milan Home Shirt - 1994",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Paolo Maldini",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-03-19"
+        },
+        "location": "Milan, Italy"
+      }
+    ]
+  },
+  {
+    "code": "IS141141CSP",
+    "item": "Spain Goalkeeper Shirt – 2010 World Cup",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Iker Casillas",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-27"
+        },
+        "location": "Real Madrid City, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141142ECMU",
+    "item": "Manchester United 1996 Home",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Eric Cantona",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-12-17"
+        },
+        "location": "Paris, France"
+      }
+    ]
+  },
+  {
+    "code": "IS141060-TKRM",
+    "item": "Real Madrid Home Shirt – 2021",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Toni Kroos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-10-25"
+        },
+        "location": "Carabanchel (Madrid), Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141070IRB",
+    "item": "Real Betis Home Shirt - 2024/25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Isco",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-05-15"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141091FVRM",
+    "item": "Real Madrid Home Shirt – 2025/26",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Federico Valverde",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-08-02"
+        },
+        "location": "Sanitas Valdebebas (Real Madrid Training Center) Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141088RCB22",
+    "item": "Brazil Home Shirt - 2002 World Cup",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Roberto Carlos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Santiago Bernabéu, Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141088AMT2425",
+    "item": "Atlético Madrid Team-Signed Home Shirt – 2024–25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Antoine Griezmann",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Jan Oblak",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Koke",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Rodrigo De Paul",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Marcos Llorente",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Axel Witsel",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "José María Giménez",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Reinildo",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Nahuel Molina",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Samuel Lino",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Thomas Lemar",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Pablo Barrios",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "César Azpilicueta",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Clément Lenglet",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Álex Galán",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Giovanni Simeone (Giuliano)",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Alexander Sørloth",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Musso",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Vermeelen",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Julián",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Riquelme",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Gallagher",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      },
+      {
+        "name": "Diego Simeone (manager)",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-09-29"
+        },
+        "location": "Madrid, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141099AGRM",
+    "item": "Real Madrid Home Shirt – 2024/25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Arda Güler",
+        "date": {
+          "precision": "DAY",
+          "iso": "2025-08-03"
+        },
+        "location": "Real Madrid City, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141077DCRM",
+    "item": "Real Madrid Home Shirt – 2023/24",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Daniel Carvajal",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-26"
+        },
+        "location": "Real Madrid Training Center, Spain"
+      }
+    ]
+  },
+  {
+    "code": "IS141111RMTS",
+    "item": "Real Madrid Home Shirt – 2024/25",
+    "pattern": "a",
+    "signers": [
+      {
+        "name": "Éder Militão",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-26"
+        },
+        "location": "Real Madrid Training Center and Bernabeu"
+      },
+      {
+        "name": "Dani Carvajal",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-26"
+        },
+        "location": "Real Madrid Training Center and Bernabeu"
+      },
+      {
+        "name": "Endrick",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-26"
+        },
+        "location": "Real Madrid Training Center and Bernabeu"
+      },
+      {
+        "name": "Brahim Díaz",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-26"
+        },
+        "location": "Real Madrid Training Center and Bernabeu"
+      },
+      {
+        "name": "David Alaba",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-26"
+        },
+        "location": "Real Madrid Training Center and Bernabeu"
+      },
+      {
+        "name": "Andriy Lunin",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-26"
+        },
+        "location": "Real Madrid Training Center and Bernabeu"
+      },
+      {
+        "name": "Dani Ceballos",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-26"
+        },
+        "location": "Real Madrid Training Center and Bernabeu"
+      },
+      {
+        "name": "Marco Asensio",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-26"
+        },
+        "location": "Real Madrid Training Center and Bernabeu"
+      },
+      {
+        "name": "Fran García",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-26"
+        },
+        "location": "Real Madrid Training Center and Bernabeu"
+      },
+      {
+        "name": "Lucas Vázquez",
+        "date": {
+          "precision": "DAY",
+          "iso": "2024-11-26"
+        },
+        "location": "Real Madrid Training Center and Bernabeu"
+      }
+    ]
+  }
+]
