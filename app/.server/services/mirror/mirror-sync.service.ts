@@ -6,7 +6,7 @@ import {
   type EntryValue,
   type UserErrorResult,
 } from "~/.server/gateways/metaobjects.gateway";
-import prisma from "~/.server/db/prisma.singleton";
+import { runTransaction } from "~/.server/db/transaction.utils";
 import { codeToHandle, handleToCode } from "~/features/codes/utils/code.utils";
 import { log } from "~/.server/logging/logger.service";
 import { findCodeOwner } from "~/.server/repositories/certificate-codes.repository";
@@ -101,7 +101,7 @@ async function dropProductLink(
   error: UserErrorResult,
 ): Promise<void> {
   logProductRejection(context.shop, certificate.id, error);
-  await prisma.$transaction(async (transaction) => {
+  await runTransaction(async (transaction) => {
     const patched = await patchSystemFields(
       transaction,
       context.shop,
@@ -207,7 +207,7 @@ async function repushOwner(
     return;
   }
 
-  await prisma.$transaction((transaction) =>
+  await runTransaction((transaction) =>
     enqueueUpsert(transaction, {
       shop: context.shop,
       certificateId: ownerId,

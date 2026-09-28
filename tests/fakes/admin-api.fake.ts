@@ -573,6 +573,32 @@ const HANDLERS: Record<string, Handler> = {
     };
   },
 
+  CoaOrderByName: (state, variables) => {
+    const matches = orderMatcher(variables.query as string);
+    const found = state.fake.orders.filter(
+      (order) => !order.outsideWindow && matches(order),
+    );
+
+    return {
+      orders: {
+        nodes: found.slice(0, variables.first as number).map((order) => ({
+          id: order.id,
+          name: order.name,
+          lineItems: {
+            nodes: order.lineItems.slice(0, PAGE.lineItems).map((lineItem) => ({
+              id: lineItem.id,
+              title: lineItem.title,
+              currentQuantity: lineItem.currentQuantity,
+              isGiftCard: lineItem.isGiftCard,
+              product: lineItemProduct(state, lineItem),
+            })),
+            pageInfo: { hasNextPage: order.lineItems.length > PAGE.lineItems },
+          },
+        })),
+      },
+    };
+  },
+
   CoaOrderLineItems: (state, variables) => {
     const order = state.fake.orders.find(
       (candidate) => candidate.id === variables.id,

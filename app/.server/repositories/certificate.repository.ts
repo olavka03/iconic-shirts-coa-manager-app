@@ -12,6 +12,7 @@ import {
   writeColumns,
 } from "./certificate-mapping.utils";
 import type { Db, Transaction } from "~/.server/db/db.types";
+import { runTransaction } from "~/.server/db/transaction.utils";
 import type {
   CertificateRecord,
   CertificateWrite,
@@ -156,7 +157,7 @@ export async function getMirrorSnapshot(
   shop: string,
   id: string,
 ): Promise<{ certificate: MirrorSource | null; row: SyncFailureRow | null }> {
-  return prisma.$transaction(
+  return runTransaction(
     async (transaction) => {
       const certificate = await transaction.certificate.findFirst({
         where: { id, shop },

@@ -20,13 +20,13 @@ const resolvedTeamKey = (
 const seasonsAgree = (first: string, second: string) =>
   first === "" || second === "" || first === second;
 
-// Imported certificates have no line item. This only hints at the one order item each clearly matches
-// (spec §4.3), so it never guesses: zero or several candidate items leave the certificate unmatched.
-export function matchLegacyToItems(
+// Every order item each imported certificate could belong to: same team, agreeing seasons, and
+// every signer of the item among the certificate's signers.
+export function legacyCandidateItems(
   legacy: readonly LegacyCertificate[],
   items: readonly { id: string; title: string }[],
   dictionary: TeamDictionary,
-): Map<string, string> {
+): Map<string, string[]> {
   const candidates = items.map((item) => {
     const parsedTitle = parseProductTitle(item.title, {
       isTeam: (name) => isKnownTeam(name, dictionary),
@@ -39,26 +39,45 @@ export function matchLegacyToItems(
       signerKeys: parsedTitle.signers.map(signerKey),
     };
   });
+
+  return new Map(
+    legacy.map((certificate) => {
+      const team = resolvedTeamKey(
+        certificate.item,
+        certificate.signerNames,
+        dictionary,
+      );
+      const season = formatSeason(extractSeason(certificate.item));
+      const signers = new Set(certificate.signerNames.map(signerKey));
+      const matches = candidates.filter(
+        (candidate) =>
+          candidate.team !== "" &&
+          candidate.team === team &&
+          seasonsAgree(candidate.season, season) &&
+          candidate.signerKeys.every((key) => signers.has(key)),
+      );
+
+      return [certificate.id, matches.map((candidate) => candidate.id)];
+    }),
+  );
+}
+
+// Imported certificates have no line item. This only hints at the one order item each clearly matches
+// (spec §4.3), so it never guesses: zero or several candidate items leave the certificate unmatched.
+export function matchLegacyToItems(
+  legacy: readonly LegacyCertificate[],
+  items: readonly { id: string; title: string }[],
+  dictionary: TeamDictionary,
+): Map<string, string> {
   const itemByCertificate = new Map<string, string>();
 
-  for (const certificate of legacy) {
-    const team = resolvedTeamKey(
-      certificate.item,
-      certificate.signerNames,
-      dictionary,
-    );
-    const season = formatSeason(extractSeason(certificate.item));
-    const signers = new Set(certificate.signerNames.map(signerKey));
-    const matches = candidates.filter(
-      (candidate) =>
-        candidate.team !== "" &&
-        candidate.team === team &&
-        seasonsAgree(candidate.season, season) &&
-        candidate.signerKeys.every((key) => signers.has(key)),
-    );
-
-    if (matches.length === 1) {
-      itemByCertificate.set(certificate.id, matches[0].id);
+  for (const [certificateId, itemIds] of legacyCandidateItems(
+    legacy,
+    items,
+    dictionary,
+  )) {
+    if (itemIds.length === 1) {
+      itemByCertificate.set(certificateId, itemIds[0]);
     }
   }
 

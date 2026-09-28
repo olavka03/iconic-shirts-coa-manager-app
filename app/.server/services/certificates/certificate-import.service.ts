@@ -1,4 +1,4 @@
-import prisma from "~/.server/db/prisma.singleton";
+import { runTransaction } from "~/.server/db/transaction.utils";
 import { codeToHandle } from "~/features/codes/utils/code.utils";
 import { insertCertificate } from "~/.server/repositories/certificate.repository";
 import type { CertificateWrite } from "~/.server/repositories/certificate.types";
@@ -10,7 +10,7 @@ export async function importCertificate(
   write: CertificateWrite,
   timestamps: { createdAt: Date },
 ): Promise<{ id: string }> {
-  const id = await prisma.$transaction(async (transaction) => {
+  const id = await runTransaction(async (transaction) => {
     const imported = await insertCertificate(transaction, shop, write, {
       createdAt: timestamps.createdAt,
     });

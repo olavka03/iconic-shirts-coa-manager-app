@@ -110,6 +110,23 @@ export type CoaOrderLineItemsQuery = { order?: AdminTypes.Maybe<(
       )>, pageInfo: Pick<AdminTypes.PageInfo, 'hasNextPage' | 'endCursor'> } }
   )> };
 
+export type CoaOrderByNameQueryVariables = AdminTypes.Exact<{
+  first: AdminTypes.Scalars['Int']['input'];
+  query: AdminTypes.Scalars['String']['input'];
+}>;
+
+
+export type CoaOrderByNameQuery = { orders: { nodes: Array<(
+      Pick<AdminTypes.Order, 'id' | 'name'>
+      & { lineItems: { nodes: Array<(
+          Pick<AdminTypes.LineItem, 'id' | 'title' | 'currentQuantity' | 'isGiftCard'>
+          & { product?: AdminTypes.Maybe<(
+            Pick<AdminTypes.Product, 'id' | 'title'>
+            & { featuredMedia?: AdminTypes.Maybe<{ preview?: AdminTypes.Maybe<{ image?: AdminTypes.Maybe<Pick<AdminTypes.Image, 'url'>> }> }> }
+          )> }
+        )>, pageInfo: Pick<AdminTypes.PageInfo, 'hasNextPage'> } }
+    )> } };
+
 export type CoaProductsQueryVariables = AdminTypes.Exact<{
   ids: Array<AdminTypes.Scalars['ID']['input']> | AdminTypes.Scalars['ID']['input'];
 }>;
@@ -137,6 +154,7 @@ interface GeneratedQueryTypes {
   "#graphql\n  query CoaCertificateEntries($type: String!, $after: String) {\n    metaobjects(type: $type, first: 250, after: $after) {\n      nodes {\n        id\n        handle\n      }\n      pageInfo {\n        hasNextPage\n        endCursor\n      }\n    }\n  }\n": {return: CoaCertificateEntriesQuery, variables: CoaCertificateEntriesQueryVariables},
   "#graphql\n  query CoaOrderPicker($first: Int!, $query: String) {\n    orders(first: $first, sortKey: CREATED_AT, reverse: true, query: $query) {\n      nodes {\n        id\n        name\n        createdAt\n        cancelledAt\n        displayFulfillmentStatus\n        currentSubtotalLineItemsQuantity\n        lineItems(first: 5) {\n          nodes {\n            title\n            currentQuantity\n            isGiftCard\n          }\n        }\n      }\n      pageInfo {\n        hasNextPage\n      }\n    }\n  }\n": {return: CoaOrderPickerQuery, variables: CoaOrderPickerQueryVariables},
   "#graphql\n  query CoaOrderLineItems($id: ID!, $after: String) {\n    order(id: $id) {\n      id\n      name\n      createdAt\n      cancelledAt\n      displayFulfillmentStatus\n      lineItems(first: 50, after: $after) {\n        nodes {\n          id\n          title\n          variantTitle\n          currentQuantity\n          isGiftCard\n          image {\n            url(transform: { maxWidth: 160, maxHeight: 160 })\n          }\n          product {\n            id\n            title\n            status\n            featuredMedia {\n              preview {\n                image {\n                  url(transform: { maxWidth: 160, maxHeight: 160 })\n                }\n              }\n            }\n          }\n        }\n        pageInfo {\n          hasNextPage\n          endCursor\n        }\n      }\n    }\n  }\n": {return: CoaOrderLineItemsQuery, variables: CoaOrderLineItemsQueryVariables},
+  "#graphql\n  query CoaOrderByName($first: Int!, $query: String!) {\n    orders(first: $first, query: $query) {\n      nodes {\n        id\n        name\n        lineItems(first: 50) {\n          nodes {\n            id\n            title\n            currentQuantity\n            isGiftCard\n            product {\n              id\n              title\n              featuredMedia {\n                preview {\n                  image {\n                    url\n                  }\n                }\n              }\n            }\n          }\n          pageInfo {\n            hasNextPage\n          }\n        }\n      }\n    }\n  }\n": {return: CoaOrderByNameQuery, variables: CoaOrderByNameQueryVariables},
   "#graphql\n  query CoaProducts($ids: [ID!]!) {\n    nodes(ids: $ids) {\n      ... on Product {\n        id\n        title\n        status\n        featuredMedia {\n          preview {\n            image {\n              url\n            }\n          }\n        }\n      }\n    }\n  }\n": {return: CoaProductsQuery, variables: CoaProductsQueryVariables},
   "#graphql\n  query CoaShopInfo {\n    shop {\n      name\n      ianaTimezone\n      orderNumberFormatPrefix\n      orderNumberFormatSuffix\n    }\n  }\n": {return: CoaShopInfoQuery, variables: CoaShopInfoQueryVariables},
   "#graphql\n  query CoaLegacyCertificates {\n    shop {\n      metafield(namespace: \"custom\", key: \"certification_verification\") {\n        jsonValue\n        updatedAt\n      }\n    }\n  }\n": {return: CoaLegacyCertificatesQuery, variables: CoaLegacyCertificatesQueryVariables},

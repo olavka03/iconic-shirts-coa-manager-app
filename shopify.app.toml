@@ -1,52 +1,33 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "913530fab0bd1e8ca645b9ad688faa45"
-application_url = "https://example.com"
+application_url = "https://iconic-shirts-coa-manager-app-production.up.railway.app"
 embedded = true
 name = "COA Manager"
+handle = "iconic-shirts-coa-manager-app"
 
 [access_scopes]
 # Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
-scopes = "write_products,write_metaobjects,write_metaobject_definitions"
-
-[product.metafields.app.demo_info]
-type = "single_line_text_field"
-name = "Demo Source Info"
-description = "Tracks products created by the Shopify app template for development"
-
-  [product.metafields.app.demo_info.access]
-  admin = "merchant_read_write"
-
-[metaobjects.app.example]
-name = "Example"
-description = "An example metaobject definition created by this template"
-
-  [metaobjects.app.example.access]
-  admin = "merchant_read_write"
-
-[metaobjects.app.example.fields.title]
-name = "Title"
-type = "single_line_text_field"
-required = true
-
-[metaobjects.app.example.fields.description]
-name = "Description"
-type = "multi_line_text_field"
-
-[webhooks]
-api_version = "2026-10"
-
-  [[webhooks.subscriptions]]
-  uri = "/webhooks/app/uninstalled"
-  topics = [ "app/uninstalled" ]
-
-  [[webhooks.subscriptions]]
-  uri = "/webhooks/app/scopes_update"
-  topics = [ "app/scopes_update" ]
+scopes = "read_orders,read_all_orders,read_products,write_app_proxy,write_files,write_metaobject_definitions,write_metaobjects"
 
 [auth]
-redirect_urls = [ "https://example.com/api/auth" ]
+redirect_urls = ["https://iconic-shirts-coa-manager-app-production.up.railway.app/auth/callback", "https://iconic-shirts-coa-manager-app-production.up.railway.app/auth/shopify/callback", "https://iconic-shirts-coa-manager-app-production.up.railway.app/api/auth/callback"]
+
+[app_proxy]
+url = "/proxy"
+prefix = "apps"
+subpath = "coa"
+
+[webhooks]
+api_version = "2026-07"
+
+  [[webhooks.subscriptions]]
+  topics = [ "app/uninstalled" ]
+  uri = "/webhooks/app/uninstalled"
+
+  [[webhooks.subscriptions]]
+  topics = [ "app/scopes_update" ]
+  uri = "/webhooks/app/scopes_update"
 
 [build]
-include_config_on_deploy = true
 automatically_update_urls_on_dev = true

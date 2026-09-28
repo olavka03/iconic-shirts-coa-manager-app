@@ -36,6 +36,19 @@ export type OrderWithItems = {
   lineItems: OrderLineItemNode[];
 };
 
+export type LinkableLineItemNode = {
+  id: string;
+  title: string;
+  currentQuantity: number;
+  product: { id: string; title: string; imageUrl: string | null } | null;
+};
+export type LinkableOrder = {
+  id: string;
+  name: string;
+  lineItems: LinkableLineItemNode[];
+  moreLineItems: boolean;
+};
+
 const ORDER_PICKER = `#graphql
   query CoaOrderPicker($first: Int!, $query: String) {
     orders(first: $first, sortKey: CREATED_AT, reverse: true, query: $query) {
@@ -101,7 +114,42 @@ const ORDER_LINE_ITEMS = `#graphql
   }
 ` as const;
 
+const ORDER_BY_NAME = `#graphql
+  query CoaOrderByName($first: Int!, $query: String!) {
+    orders(first: $first, query: $query) {
+      nodes {
+        id
+        name
+        lineItems(first: 50) {
+          nodes {
+            id
+            title
+            currentQuantity
+            isGiftCard
+            product {
+              id
+              title
+              featuredMedia {
+                preview {
+                  image {
+                    url
+                  }
+                }
+              }
+            }
+          }
+          pageInfo {
+            hasNextPage
+          }
+        }
+      }
+    }
+  }
+` as const;
+
 const PICKER_SIZE = 10;
+// A name: search can return near names too; 5 leaves room for the exact one.
+const NAME_SEARCH_SIZE = 5;
 // 5 pages of 50: far more line items than a real order has, and a bound on the calls.
 const MAX_LINE_ITEM_PAGES = 5;
 
@@ -217,4 +265,45 @@ export async function getOrderLineItems(
   }
 
   return { ...firstPage.order, lineItems: items };
+}
+
+// The search query comes from orderSearchQuery; only the order whose name is exactly orderName counts.
+export async function findOrderByName(
+  admin: AdminClient,
+  search: { orderName: string; query: string },
+  options?: AdminGraphqlOptions,
+): Promise<LinkableOrder | null> {
+  const data = await adminGraphql(
+    admin,
+    ORDER_BY_NAME,
+    { first: NAME_SEARCH_SIZE, query: search.query },
+    options,
+  );
+  const order = data.orders.nodes.find(
+    (node) => node.name === search.orderName,
+  );
+
+  if (!order) {
+    return null;
+  }
+
+  return {
+    id: order.id,
+    name: order.name,
+    lineItems: order.lineItems.nodes
+      .filter((item) => !item.isGiftCard)
+      .map((item) => ({
+        id: item.id,
+        title: item.title,
+        currentQuantity: item.currentQuantity,
+        product: item.product
+          ? {
+              id: item.product.id,
+              title: item.product.title,
+              imageUrl: item.product.featuredMedia?.preview?.image?.url ?? null,
+            }
+          : null,
+      })),
+    moreLineItems: order.lineItems.pageInfo.hasNextPage,
+  };
 }

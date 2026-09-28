@@ -90,6 +90,43 @@ export async function certificatesForOrder(
   }));
 }
 
+export type UnlinkedCertificateRow = {
+  id: string;
+  code: string;
+  item: string;
+  signerNames: string[];
+  orderName: string;
+};
+
+// Imported certificates that name an order but aren't linked to it yet.
+export async function unlinkedNamedCertificates(
+  shop: string,
+): Promise<UnlinkedCertificateRow[]> {
+  const rows = await prisma.certificate.findMany({
+    where: { shop, orderId: null, orderName: { not: null } },
+    orderBy: [{ createdAt: "asc" }, { id: "asc" }],
+    select: {
+      id: true,
+      code: true,
+      item: true,
+      orderName: true,
+      signers: SIGNER_NAMES,
+    },
+  });
+
+  return rows.flatMap(({ signers, orderName, ...columns }) =>
+    orderName === null
+      ? []
+      : [
+          {
+            ...columns,
+            orderName,
+            signerNames: signers.map((signer) => signer.name),
+          },
+        ],
+  );
+}
+
 export async function countByOrders(
   shop: string,
   orders: { id: string; name: string }[],
@@ -168,4 +205,31 @@ export function countForLineItem(
   return db.certificate.count({
     where: { shop, lineItemId, ...excluding(excludeId) },
   });
+}
+
+export type OrderLinkColumns = {
+  orderId: string;
+  orderName: string;
+  lineItemId: string;
+  lineItemTitle: string;
+  productId: string | null;
+  productTitle: string | null;
+  productImageUrl: string | null;
+};
+
+// Only a certificate that still has no order id is linked. Bookkeeping like patchSystemFields:
+// updatedAt stays the merchant's last edit.
+export async function setOrderLink(
+  transaction: Transaction,
+  shop: string,
+  id: string,
+  columns: OrderLinkColumns,
+): Promise<{ code: string; version: number } | null> {
+  const [row] = await transaction.certificate.updateManyAndReturn({
+    where: { id, shop, orderId: null },
+    data: { ...columns, version: { increment: 1 } },
+    select: { code: true, version: true },
+  });
+
+  return row ?? null;
 }
