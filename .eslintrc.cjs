@@ -314,6 +314,17 @@ module.exports = {
                   "Feature DAG: codes imports orders, signers and shared.",
               },
               {
+                target: feature("reviews"),
+                from: [
+                  feature("certificates"),
+                  feature("codes"),
+                  feature("media"),
+                  feature("orders"),
+                  feature("signers"),
+                ],
+                message: "Feature DAG: reviews imports shared only.",
+              },
+              {
                 target: ROUTES,
                 from: ROUTES,
                 except: ["./auth/login.module.css"],

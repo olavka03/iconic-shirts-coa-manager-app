@@ -3,11 +3,14 @@ import {
   toVerificationPayload,
   type VerifyResponse,
 } from "~/features/certificates/utils/verification.utils";
-import { errorName, log } from "~/.server/logging/logger.service";
+import { log } from "~/.server/logging/logger.service";
 import { getVerificationSource } from "~/.server/repositories/certificate.repository";
 import { createFixedWindowLimiter } from "~/.server/services/proxy/fixed-window-limiter.utils";
-import { jsonResponse } from "~/.server/services/shared/json-response.utils";
-import { authenticate } from "~/.server/shopify/shopify-app.config";
+import {
+  clientAddress,
+  proxyJsonResponse,
+} from "~/.server/services/proxy/proxy-request.utils";
+import { checkProxySignature } from "~/.server/shopify/app-proxy-signature.service";
 import type { Route } from "./+types/verify-certificate.route";
 
 const limiter = createFixedWindowLimiter({
@@ -16,35 +19,12 @@ const limiter = createFixedWindowLimiter({
   maxKeys: 10_000,
 });
 
-function proxyJsonResponse(
+function verifyJsonResponse(
   body: VerifyResponse,
   status = 200,
   extraHeaders: Record<string, string> = {},
 ): Response {
-  return jsonResponse(body, status, {
-    "X-Robots-Tag": "noindex",
-    ...extraHeaders,
-  });
-}
-
-async function checkProxySignature(request: Request): Promise<void> {
-  try {
-    await authenticate.public.appProxy(request);
-  } catch (error) {
-    // Only a 400 means a bad or stale signature. Anything else comes from the offline token refresh
-    // after the signature passed, and the lookup needs Postgres only.
-    if (error instanceof Response && error.status === 400) {
-      throw error;
-    }
-
-    log.warn("proxy.session_unavailable", { kind: errorName(error) });
-  }
-}
-
-function clientAddress(request: Request): string {
-  return (
-    request.headers.get("x-forwarded-for")?.split(",")[0]?.trim() || "unknown"
-  );
+  return proxyJsonResponse(body, status, extraHeaders);
 }
 
 export async function loader({ request }: Route.LoaderArgs) {
@@ -61,7 +41,7 @@ export async function loader({ request }: Route.LoaderArgs) {
       log.warn("proxy.rate_limited", { shop });
     }
 
-    return proxyJsonResponse({ found: false, error: "rate_limited" }, 429, {
+    return verifyJsonResponse({ found: false, error: "rate_limited" }, 429, {
       "Retry-After": "60",
     });
   }
@@ -69,15 +49,15 @@ export async function loader({ request }: Route.LoaderArgs) {
   const code = normalizeRawCode(url.searchParams.get("code") ?? "");
 
   if (codeError(code)) {
-    return proxyJsonResponse({ found: false });
+    return verifyJsonResponse({ found: false });
   }
 
   const certificate = await getVerificationSource(shop, code);
 
   return certificate
-    ? proxyJsonResponse({
+    ? verifyJsonResponse({
         found: true,
         certificate: toVerificationPayload(certificate),
       })
-    : proxyJsonResponse({ found: false });
+    : verifyJsonResponse({ found: false });
 }

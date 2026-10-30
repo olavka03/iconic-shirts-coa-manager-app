@@ -28,6 +28,7 @@ export default [
   ]),
 
   route("proxy/verify", "routes/proxy/verify-certificate.route.tsx"),
+  route("proxy/reviews", "routes/proxy/reviews.route.tsx"),
 
   ...prefix("webhooks/app", [
     route("uninstalled", "routes/webhooks/app-uninstalled.route.tsx"),

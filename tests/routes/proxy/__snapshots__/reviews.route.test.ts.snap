@@ -1,0 +1,40 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`GET /proxy/reviews > returns the contract shape for the signed shop, never cached or indexed 1`] = `
+"{
+  "reviews": [
+    {
+      "id": 900000001,
+      "rating": 5,
+      "title": null,
+      "body": "Arrived quickly and exactly as described.\\nThe frame is superb.",
+      "created_at": "2026-10-29T18:52:50.000Z",
+      "reviewer_name": "Alex Example",
+      "verified": "verified-purchase",
+      "source": "shop-app",
+      "product": {
+        "id": 1234567890123,
+        "handle": "example-signed-shirt",
+        "title": "Example Signed Shirt"
+      }
+    },
+    {
+      "id": 900000002,
+      "rating": 5,
+      "title": null,
+      "body": "Great service.",
+      "created_at": "2026-10-20T09:15:00.000Z",
+      "reviewer_name": null,
+      "verified": "nothing",
+      "source": "google-business",
+      "product": null
+    }
+  ],
+  "pagination": {
+    "page": 1,
+    "limit": 2,
+    "total": 3,
+    "total_pages": 2
+  }
+}"
+`;

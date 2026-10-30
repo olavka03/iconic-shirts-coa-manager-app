@@ -3,7 +3,7 @@ import { SHOP } from "./certificate-row.factory";
 
 let requestCount = 0;
 
-// The route limits lookups per client address, so a request gets an address of its own
+// The routes limit requests per client address, so a request gets an address of its own
 // unless the test names one.
 function nextClientAddress(): string {
   requestCount += 1;
@@ -11,8 +11,9 @@ function nextClientAddress(): string {
   return `2001:db8::${requestCount.toString(16)}`;
 }
 
-export function signedProxyRequest(options: {
-  code: string;
+export function signedProxyUrlRequest(options: {
+  path: string;
+  parameters?: Record<string, string>;
   shop?: string;
   timestamp?: number;
   tamper?: Partial<Record<string, string>>;
@@ -20,7 +21,7 @@ export function signedProxyRequest(options: {
 }): Request {
   const query = signedProxyQuery(
     {
-      code: options.code,
+      ...options.parameters,
       shop: options.shop ?? SHOP,
       logged_in_customer_id: "",
       path_prefix: "/apps/coa",
@@ -35,9 +36,25 @@ export function signedProxyRequest(options: {
     }
   }
 
-  return new Request(`${process.env.SHOPIFY_APP_URL}/proxy/verify?${query}`, {
+  return new Request(`${process.env.SHOPIFY_APP_URL}${options.path}?${query}`, {
     headers: {
       "X-Forwarded-For": options.clientAddress ?? nextClientAddress(),
     },
+  });
+}
+
+export function signedProxyRequest(options: {
+  code: string;
+  shop?: string;
+  timestamp?: number;
+  tamper?: Partial<Record<string, string>>;
+  clientAddress?: string;
+}): Request {
+  const { code, ...rest } = options;
+
+  return signedProxyUrlRequest({
+    ...rest,
+    path: "/proxy/verify",
+    parameters: { code },
   });
 }
